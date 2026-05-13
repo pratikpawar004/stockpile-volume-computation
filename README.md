@@ -65,7 +65,7 @@ The volume under each triangle is calculated and summed to estimate the total st
 <img width="1039" height="693" alt="Image" src="https://github.com/user-attachments/assets/a6ee6f8d-b59f-4b14-9dac-14b381395c68" />
 
 ### Triangulation Mesh
-<img width="710" height="515" alt="Image" src="https://github.com/user-attachments/assets/57733656-e849-457f-8b7d-095025c00121" />
+<img width="568" height="413" alt="Image" src="https://github.com/user-attachments/assets/8a628e5a-49d8-4e55-a7da-fbc708b4dab8" />
 
 ### Surface Mesh
 <img width="1043" height="609" alt="Image" src="https://github.com/user-attachments/assets/07e5d47b-68ef-455a-b513-56ebb8e37bec" />
