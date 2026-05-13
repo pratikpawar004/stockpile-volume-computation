@@ -74,7 +74,7 @@ The volume under each triangle is calculated and summed to estimate the total st
 
 ## Final Volume Output
 
-The volume of the stockpile is: 0.0099 m3
+Estimated stockpile volume: 0.1364 m3
 
 ---
 
