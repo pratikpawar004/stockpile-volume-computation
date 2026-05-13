@@ -97,6 +97,13 @@ stockpile-volume-computation/
 │   ├── data/
 │   │   └── stockpile.ply
 │   └── stockpile_volume.ipynb
+│
+├── screenshots/
+│   ├── ground_plane_segmentation.png
+│   ├── cleaned_stockpile.png
+│   ├── triangulation_mesh.png
+│   └── surface_mesh.png
+│
 ├── .gitignore
 └── README.md
 ```
